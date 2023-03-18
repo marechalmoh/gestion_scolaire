@@ -1,3 +1,3 @@
 <?php
 
-echo "TEST DE CONNECTION ...";
+echo "TEST DE CONNECTION .....";
